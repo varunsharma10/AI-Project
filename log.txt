@@ -1,0 +1,2 @@
+05/29/2022 05:37:29 PM - INFO - ***Evolving 10 generations with population 20***
+05/29/2022 05:37:29 PM - INFO - ***Doing generation 1 of 10***
